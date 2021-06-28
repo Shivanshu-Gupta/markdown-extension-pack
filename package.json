@@ -3,7 +3,7 @@
     "displayName": "Markdown Extension Pack",
     "description": "Popular Visual Studio Code extensions for Markdown",
     "version": "0.7.0",
-    "publisher": "bat67",
+    "publisher": "Shivanshu-Gupta",
     "icon": "icon.jpg",
     "engines": {
         "vscode": "^1.10.0"
@@ -14,11 +14,11 @@
     },
     "keywords": [
         "markdown",
-		"markdownlint",
+	"markdownlint",
         "LaTex",
         "linter",
-		"extension pack"
-	],
+	"extension pack"
+    ],
     "categories": [
         "Extension Packs"
     ],
@@ -41,12 +41,11 @@
         "darkriszty.markdown-table-prettify",
         "bierner.markdown-emoji",
         "bierner.emojisense",
-        "ionutvmi.path-autocomplete",
+        "christian-kohler.path-intellisense",
         "bierner.markdown-checkbox",
         "bierner.markdown-preview-github-styles",
         "telesoho.vscode-markdown-paste-image",
         "mdickin.markdown-shortcuts",
-        "csholmq.excel-to-markdown-table",
-        "moshfeu.vscode-medium-to-markdown"
+        "csholmq.excel-to-markdown-table"
     ]
 }
