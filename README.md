@@ -31,13 +31,12 @@
 - [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify) - Makes tables more readable for humans. Compatible with the Markdown writer plugin's table formatter feature in Atom.
 - [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) - Adds :emoji: syntax support to VS Code's built-in Markdown preview.
 - [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) - Adds suggestions and autocomplete for emoji to VS Code.
-- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) - Provides path completion for visual studio code. Maybe can be used in inserting file links in Markdown.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Provides path completion for visual studio code.
 - [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox) - Adds support for Github's `- [ ]` and `- [x]` checkbox syntax to VS Code's built-in markdown preview.
 - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - Changes VS Code's built-in markdown preview to match Github's styling.
 - [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image) - Smartly paste for Markdown.
 - [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts) - Handy shortcuts for editing Markdown (.md, .markdown) files. You can also use markdown formats in any other file.
 - [Excel to Markdown table](https://marketplace.visualstudio.com/items?itemName=csholmq.excel-to-markdown-table) - This VSCode extension converts Excel data to Markdown table format. Available through command Excel to Markdown table and keyboard shortcut Shift+Alt+V.
-- [Medium to Markdown](https://marketplace.visualstudio.com/items?itemName=moshfeu.vscode-medium-to-markdown) - Use Medium to Markdown to fetch and convert your Medium posts into local markdown files.
 
 ## Contributing
 
